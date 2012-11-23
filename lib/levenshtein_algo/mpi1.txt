@@ -1,0 +1,394 @@
+Matching word  0 by rank 0 : absence
+Spelling is correct.
+Matching word  1 by rank 0 : ocidental
+Spelling is incorrect.
+Suggestions :
+1 : accident
+2 : accident's
+3 : accidental
+4 : accidentally
+5 : central
+6 : ideal
+7 : identical
+8 : incident
+9 : incident's
+10 : incidentally
+Matching word  2 by rank 0 : acuraci
+Spelling is incorrect.
+Suggestions :
+1 : accuracy
+2 : accuracy's
+3 : accurate
+4 : attract
+Matching word  3 by rank 0 : advanced
+Spelling is correct.
+Matching word  4 by rank 0 : iffeting
+Spelling is incorrect.
+Suggestions :
+1 : affecting
+2 : deleting
+3 : different
+4 : effective
+5 : feeding
+6 : feeling
+7 : fitting
+8 : inserting
+9 : inventing
+10 : inviting
+Matching word  5 by rank 0 : algorithm
+Spelling is correct.
+Matching word  6 by rank 0 : announcement
+Spelling is correct.
+Matching word  7 by rank 0 : drrangemet
+Spelling is incorrect.
+Suggestions :
+1 : arrange
+2 : arranged
+3 : arrangement
+4 : arrangement's
+5 : arrangements
+6 : arranges
+Matching word  8 by rank 0 : bradcustin
+Spelling is incorrect.
+Suggestions :
+1 : broadcast
+2 : broadcasting
+3 : broadcasts
+Matching word  9 by rank 0 : heapes
+Spelling is incorrect.
+Suggestions :
+1 : cheaper
+2 : cheapest
+3 : head's
+4 : headed
+5 : header
+6 : heads
+7 : hears
+8 : heat's
+9 : helped
+10 : helps
+Matching word  10 by rank 0 : commant
+Spelling is incorrect.
+Suggestions :
+1 : combine
+2 : coming
+3 : command
+4 : commands
+5 : comment
+6 : comment's
+7 : commented
+8 : commenting
+9 : comments
+10 : committee
+Matching word  11 by rank 0 : compleint
+Spelling is incorrect.
+Suggestions :
+1 : collect
+2 : combine
+3 : combining
+4 : coming
+5 : comment
+6 : comments
+7 : company
+8 : comparing
+9 : compiler
+10 : compiler's
+Matching word  12 by rank 0 : connections
+Spelling is incorrect.
+Suggestions :
+1 : actions
+2 : collecting
+3 : collection
+4 : collection's
+5 : collects
+6 : commenting
+7 : competition
+8 : competition's
+9 : concept's
+10 : concerning
+Matching word  13 by rank 0 : dedicion
+Spelling is incorrect.
+Suggestions :
+1 : addition
+2 : decision
+3 : decision's
+4 : decisions
+5 : dedicate
+6 : dedicated
+7 : dedicates
+8 : dedicating
+9 : division
+10 : edition
+Matching word  14 by rank 0 : differecelt
+Spelling is incorrect.
+Suggestions :
+1 : differ
+2 : difference
+3 : difference's
+4 : differences
+5 : different
+6 : differently
+7 : difficult
+8 : difficulty
+9 : direct
+10 : directly
+Matching word  15 by rank 0 : embarrassing
+Spelling is correct.
+Matching word  16 by rank 0 : execusst
+Spelling is incorrect.
+Suggestions :
+1 : excess
+2 : excuse
+3 : execute
+4 : executed
+5 : executes
+6 : executing
+Matching word  17 by rank 0 : dormatty
+Spelling is incorrect.
+Suggestions :
+1 : format
+2 : format's
+3 : normally
+Matching word  18 by rank 0 : exeneraton
+Spelling is incorrect.
+Suggestions :
+1 : generate
+2 : generated
+3 : generates
+4 : generating
+5 : generation
+6 : generation's
+Matching word  19 by rank 0 : guarownth
+Spelling is incorrect.
+Suggestions :
+1 : grown
+2 : growth
+3 : guarantee
+Matching word  20 by rank 0 : husband
+Spelling is correct.
+Matching word  21 by rank 0 : cimposted
+Spelling is incorrect.
+Suggestions :
+1 : closed
+2 : commented
+3 : compared
+4 : complete
+5 : completed
+6 : completes
+7 : compose
+8 : composed
+9 : composes
+10 : composing
+Matching word  22 by rank 0 : inconvenience
+Spelling is incorrect.
+Suggestions :
+1 : conference
+2 : consequence
+3 : consequences
+4 : convenient
+5 : convention
+6 : convention's
+7 : conventional
+8 : conventions
+9 : convince
+10 : convinced
+Matching word  23 by rank 0 : leaven
+Spelling is incorrect.
+Suggestions :
+1 : cleared
+2 : clearer
+3 : eaten
+4 : even
+5 : leaded
+6 : leader
+7 : leading
+8 : learn
+9 : leave
+10 : leaved
+Matching word  24 by rank 0 : marknater
+Spelling is incorrect.
+Suggestions :
+1 : greater
+2 : manage
+3 : managed
+4 : manager
+5 : manages
+6 : manner
+7 : marked
+8 : market
+9 : market's
+10 : marriage
+Matching word  25 by rank 0 : membory
+Spelling is incorrect.
+Suggestions :
+1 : member
+2 : member's
+3 : members
+4 : memory
+5 : memory's
+Matching word  26 by rank 0 : necessary
+Spelling is correct.
+Matching word  27 by rank 0 : lomite
+Spelling is incorrect.
+Suggestions :
+1 : limit
+2 : limit's
+3 : limited
+4 : limits
+5 : omit
+6 : omits
+7 : omitted
+Matching word  28 by rank 0 : permfissance
+Spelling is incorrect.
+Suggestions :
+1 : performance
+2 : performance's
+3 : permission
+4 : permission's
+Matching word  29 by rank 0 : procuctmmer
+Spelling is incorrect.
+Suggestions :
+1 : customer
+2 : produce
+3 : produced
+4 : produces
+5 : product
+6 : product's
+7 : production
+8 : products
+9 : programmer
+10 : programmers
+Matching word  30 by rank 0 : releave
+Spelling is incorrect.
+Suggestions :
+1 : behave
+2 : believe
+3 : delete
+4 : leave
+5 : leaved
+6 : leaves
+7 : please
+8 : receive
+9 : received
+10 : receives
+Matching word  31 by rank 0 : server
+Spelling is correct.
+Matching word  32 by rank 0 : stadistioncal
+Spelling is incorrect.
+Suggestions :
+1 : additional
+2 : distinct
+3 : distinctly
+4 : national
+5 : station
+6 : station's
+7 : stations
+8 : statistic
+9 : statistical
+10 : statistics
+Matching word  33 by rank 0 : thourgh
+Spelling is incorrect.
+Suggestions :
+1 : church
+2 : enough
+3 : fourth
+4 : hour
+5 : hour's
+6 : hours
+7 : rough
+8 : though
+9 : thought
+10 : thoughts
+Matching word  34 by rank 0 : trainsferlation
+Spelling is incorrect.
+Suggestions :
+1 : administration
+2 : consideration
+3 : conversation
+4 : demonstration
+5 : generation
+6 : information
+7 : instruction
+8 : manipulation
+9 : observation
+10 : relation
+Matching word  35 by rank 0 : upserdate
+Spelling is incorrect.
+Suggestions :
+1 : alternate
+2 : desperate
+3 : generate
+4 : operate
+5 : operated
+6 : operates
+7 : update
+8 : updated
+9 : updates
+10 : upset
+Matching word  36 by rank 0 : vision
+Spelling is correct.
+Matching word  37 by rank 0 : wherebsver
+Spelling is incorrect.
+Suggestions :
+1 : whatever
+2 : whenever
+3 : whereas
+4 : whereby
+5 : wherever
+6 : whoever
+Matching word  38 by rank 0 : brite
+Spelling is incorrect.
+Suggestions :
+1 : arise
+2 : bit
+3 : bite
+4 : bites
+5 : bits
+6 : brief
+7 : bring
+8 : broke
+9 : byte
+10 : drive
+Matching word  39 by rank 0 : zero
+Spelling is correct.
+Suggestions :
+Process Time of word 0 :  14
+Process Time of word 1 :  7057
+Process Time of word 2 :  9019
+Process Time of word 3 :  188
+Process Time of word 4 :  5565
+Process Time of word 5 :  327
+Process Time of word 6 :  589
+Process Time of word 7 :  12648
+Process Time of word 8 :  12590
+Process Time of word 9 :  3244
+Process Time of word 10 :  1460
+Process Time of word 11 :  1852
+Process Time of word 12 :  2411
+Process Time of word 13 :  2986
+Process Time of word 14 :  13699
+Process Time of word 15 :  4550
+Process Time of word 16 :  10058
+Process Time of word 17 :  10146
+Process Time of word 18 :  12656
+Process Time of word 19 :  11370
+Process Time of word 20 :  3814
+Process Time of word 21 :  1998
+Process Time of word 22 :  3221
+Process Time of word 23 :  3905
+Process Time of word 24 :  6171
+Process Time of word 25 :  8811
+Process Time of word 26 :  6639
+Process Time of word 27 :  7643
+Process Time of word 28 :  15058
+Process Time of word 29 :  9506
+Process Time of word 30 :  6482
+Process Time of word 31 :  6062
+Process Time of word 32 :  14985
+Process Time of word 33 :  7977
+Process Time of word 34 :  17360
+Process Time of word 35 :  10804
+Process Time of word 36 :  7305
+Process Time of word 37 :  12448
+Process Time of word 38 :  4342
+Process Time of word 39 :  5202

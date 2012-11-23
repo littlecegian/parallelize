@@ -1,0 +1,94 @@
+serial code:
+ravi@ubuntu:~/multicore/CS531_20072189_20072203$ ./a.out 
+ 1.00	 0.00	 0.00	 2.00	
+ 0.00	 1.00	 0.00	 3.00	
+ 0.00	 0.00	 1.00	-1.00	
+
+
+
+Time Taken:220964433 micros
+ravi@ubuntu:~/multicore/CS531_20072189_20072203$ ./a.out 
+ 1.00	 0.00	 0.00	 2.00	
+ 0.00	 1.00	 0.00	 3.00	
+ 0.00	 0.00	 1.00	-1.00	
+
+
+
+Time Taken:2102526188 micros
+ravi@ubuntu:~/multicore/CS531_20072189_20072203$ ./a.out 
+ 1.00	 0.00	 0.00	 2.00	
+ 0.00	 1.00	 0.00	 3.00	
+ 0.00	 0.00	 1.00	-1.00	
+
+
+
+Time Taken:1540667792 micros
+
+
+parallel code :
+ravi@ubuntu:~/multicore/CS531_20072189_20072203$ mpicc gaussparallel.c 
+gaussparallel.c: In function ‘main’:
+gaussparallel.c:116: warning: assignment from incompatible pointer type
+gaussparallel.c:123: warning: assignment from incompatible pointer type
+ravi@ubuntu:~/multicore/CS531_20072189_20072203$ mpirun -np 3 ./a.out 
+ravi@ubuntu's password: 
+
+
+
+ 1.00	 0.00	 0.00	 2.00	
+ 0.00	 1.00	 0.00	 3.00	
+ 0.00	 0.00	 1.00	-1.00	
+
+
+
+Time Taken:1074726 micros
+ravi@ubuntu:~/multicore/CS531_20072189_20072203$ mpicc gaussparallel.c
+gaussparallel.c: In function ‘main’:
+gaussparallel.c:116: warning: assignment from incompatible pointer type
+gaussparallel.c:123: warning: assignment from incompatible pointer type
+ravi@ubuntu:~/multicore/CS531_20072189_20072203$ mpirun -np 3 ./a.out 
+ravi@ubuntu's password: 
+
+ 1.00	 0.00	 0.00	 2.00	
+ 0.00	 1.00	 0.00	 3.00	
+ 0.00	 0.00	 1.00	-1.00	
+
+
+
+Time Taken:1073223 micros
+
+
+ravi@ubuntu:~/multicore/CS531_20072189_20072203$ mpirun -np 3 ./a.out 
+ravi@ubuntu's password: 
+
+ 1.00	 0.00	 0.00	 2.00	
+ 0.00	 1.00	 0.00	 3.00	
+ 0.00	 0.00	 1.00	-1.00	
+
+
+
+Time Taken:1049736 micros
+
+
+ravi@ubuntu:~/multicore/CS531_20072189_20072203$ mpirun -np 3 ./a.out 
+ravi@ubuntu's password: 
+ 1.00	 0.00	 0.00	 2.00	
+ 0.00	 1.00	 0.00	 3.00	
+ 0.00	 0.00	 1.00	-1.00	
+
+
+
+
+
+
+Time Taken:1044070 micros
+ravi@ubuntu:~/multicore/CS531_20072189_20072203$ 
+
+
+
+speed up = tserial/tparallel
+speed up = 205.600  ( this is wat i m getting . I m not sure if timeval constructs are right. yet i have double checked em )
+
+
+
+
